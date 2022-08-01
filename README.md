@@ -6,3 +6,5 @@ For personal learning
     make 
     ./ProcessData
     ./bundle_adjustment_ceres out.txt
+## TODO:
+change data path
